@@ -1,9 +1,7 @@
 # Apache Mesos
 
-Apache Mesos is a cluster manager that provides efficient resource isolation
-and sharing across distributed applications, or frameworks. It can run Hadoop,
-Jenkins, Spark, Aurora, and other frameworks on a dynamically shared pool of
-nodes.
+Apache Mesos 是一个集群管理器, 它可以跨分布式应用程序或框架提供高效的资源隔离和共享。它可以在动态共享的节点池中运行,
+Jenkins, Spark, Aurora和其他框架。
 
 Visit us at [mesos.apache.org](http://mesos.apache.org).
 
