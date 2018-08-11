@@ -17,6 +17,9 @@ Visit us at [mesos.apache.org](http://mesos.apache.org).
 Documentation is available in the docs/ directory. Additionally, a rendered HTML
 version can be found on the Mesos website's [Documentation](http://mesos.apache.org/documentation/) page.
 
+# 总体架构
+Visit us at [mesos-architecture](http://dongxicheng.org/apache-mesos/meso-architecture/).
+
 # Installation
 
 Instructions are included on the [Getting Started](http://mesos.apache.org/getting-started/) page.
@@ -26,3 +29,4 @@ Instructions are included on the [Getting Started](http://mesos.apache.org/getti
 Apache Mesos is licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
 For additional information, see the LICENSE and NOTICE files.
+
