@@ -1,4 +1,4 @@
-# 3rdparty
+# 第三方软件包
 
 This directory contains bundled packages within the Mesos repository.
 
